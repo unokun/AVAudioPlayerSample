@@ -49,6 +49,7 @@
 		D3A04D12262D600500CE1F39 /* AVAudioPlayerSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVAudioPlayerSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3A04D16262D600500CE1F39 /* AVAudioPlayerSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVAudioPlayerSampleUITests.swift; sourceTree = "<group>"; };
 		D3A04D18262D600500CE1F39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3E52C1F2642313C00DFB04B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		D3A04CED262D600000CE1F39 = {
 			isa = PBXGroup;
 			children = (
+				D3E52C1F2642313C00DFB04B /* README.md */,
 				D3A04CF8262D600000CE1F39 /* AVAudioPlayerSample */,
 				D3A04D0A262D600500CE1F39 /* AVAudioPlayerSampleTests */,
 				D3A04D15262D600500CE1F39 /* AVAudioPlayerSampleUITests */,
